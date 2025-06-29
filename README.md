@@ -15,15 +15,6 @@ A multi-module database project created as part of B.Tech CSE @ IIT Gandhinagar.
 
 ---
 
-## 🛠️ Tech Stack
-
-- **Python** (Flask), **MySQL**
-- **HTML/CSS/JS**
-- **JWT**, **RBAC**, **Git**
-- **Custom CLI DBMS** with **B+ Trees**
-
----
-
 ## 🚀 Getting Started
 
 ```bash
